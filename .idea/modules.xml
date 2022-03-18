@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/redis.iml" filepath="$PROJECT_DIR$/.idea/redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-boot-sentinel-cluster/redis-boot-sentinel-clustor.iml" filepath="$PROJECT_DIR$/redis-boot-sentinel-cluster/redis-boot-sentinel-clustor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-jedis/redis-jedis.iml" filepath="$PROJECT_DIR$/redis-jedis/redis-jedis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-lock/redis-lock.iml" filepath="$PROJECT_DIR$/redis-lock/redis-lock.iml" />
+    </modules>
+  </component>
+</project>
